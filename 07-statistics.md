@@ -93,8 +93,7 @@ Fraternal twins are 2.4 times more common among twins than identical twins. In a
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+Both statistics are concerned with probability and inferences using statistics, but they approach the calculations differently. Bayesian statistics will attach a probability to an estimate and provide a distribution for it whereas frequentist statistics treat the estimate as a fixed parameter.
 ---
 
 ## <a name="section-e"></a>5.  Optional Exercises
